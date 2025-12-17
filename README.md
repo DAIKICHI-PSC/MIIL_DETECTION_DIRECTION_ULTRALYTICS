@@ -5,7 +5,7 @@ See MIIL_DETECTION_DIRECTION for details.
 MIIL_DETECTION_DIRECTIONのUltralyticsバージョンです。  
 GPU無しでも、非常に高速に動作します。  
 詳細はMIIL_DETECTION_DIRECTIONを参照して下さい。  
-
+  
 ［ライセンス］  
 本プログラム  
 AGPL3.0 LISENCE  
